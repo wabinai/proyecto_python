@@ -10,7 +10,7 @@ Resumen de la base de datos de Titanic
 
 -   El archivo `titanic.ipynb` notebook que contiene las explicaciones paso a paso del desarrollo del proyecto.
 
-## Integrantes
+## Integrantes del equipo 22
 
 -   [Paulo Hernández](https://github.com/PauloHJ) - [A01207531\@itesm.mx](mailto:A01207531@itesm.mx)
 -   [Emiliano Padilla](https://github.com/ephetpv) - [emilianopadilla03\@gmail.com](mailto:emilianopadilla03@gmail.com)
