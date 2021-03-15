@@ -7,9 +7,7 @@ Overview of Titanic dataset
 
 -   El directorio `images` contiene las imágenes para el notebook.
 
--   El archivo `titanic.ipynb` contiene el código para la resolución del problema.
-
--   El archivo `notebook.rmd` es un notebook escrito en Rmarkdown y contiene las explicacion paso a paso del desarrollo de la solución.
+-   El archivo `titanic.ipynb` notebook que contiene las explicaciones paso a paso del desarrollo del proyecto.
 
 ## Integrantes
 
