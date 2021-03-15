@@ -1,5 +1,5 @@
 # Titanic
-Overview of Titanic dataset 
+Análisis del dataset del Titanic
 
 ## Estructura del proyecto
 
@@ -7,9 +7,9 @@ Overview of Titanic dataset
 
 -   El directorio `images` contiene las imágenes para el notebook.
 
--   El archivo `titanic.ipynb` notebook que contiene las explicaciones paso a paso del desarrollo del proyecto.
+-   El archivo `titanic.ipynb` es notebook que contiene las explicaciones paso a paso del desarrollo del proyecto.
 
-## Integrantes
+## Integrantes del equipo 22
 
 -   [Paulo Hernández](https://github.com/PauloHJ) - [A01207531\@itesm.mx](mailto:A01207531@itesm.mx)
 -   [Emiliano Padilla](https://github.com/ephetpv) - [emilianopadilla03\@gmail.com](mailto:emilianopadilla03@gmail.com)
