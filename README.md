@@ -6,7 +6,7 @@ Resumen de la base de datos de Titanic
 
 -   El directorio `data` contiene los datasets del reto.
 
--   El directorio `images` contiene las imágenes para el notebook.
+-   El directorio `image` contiene la imagen para el notebook.
 
 -   El archivo `titanic.ipynb` notebook que contiene las explicaciones paso a paso del desarrollo del proyecto.
 
