@@ -1,5 +1,6 @@
 # Titanic
-Overview of Titanic dataset 
+
+Resumen de la base de datos de Titanic
 
 ## Estructura del proyecto
 
